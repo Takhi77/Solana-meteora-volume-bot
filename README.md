@@ -4,6 +4,12 @@
 
 This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Meteora platform.
 
+## Contact Info
+
+Telegram: @Takhi77
+
+You can always feel free to find me here for my help on other projects.
+
 ## 🌟 Features
 - ⚙️ **Automated SOL Distribution**: Distributes SOL to new wallets.
 - 🔄 **Endless Buy and Sell Swaps**: Performs simultaneous buy and sell transactions.
